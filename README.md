@@ -1,1 +1,1 @@
-# Bioinformatics
+# Bioinformatis Class Assignments

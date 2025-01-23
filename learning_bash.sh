@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 #Variables
 greeting="Hey Hey Hey"
 yourname=Liberty 
